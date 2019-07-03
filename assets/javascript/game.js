@@ -1,4 +1,5 @@
-$(Document).ready(function(){
+console.log ("The javascript file is linked correctly");
+$(document).ready(function(){
 
 
 //variables
