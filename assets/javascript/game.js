@@ -1,4 +1,4 @@
-// $(document).ready(function(){
+$(Document).ready(function(){
 
 
 //variables
@@ -24,4 +24,4 @@ $("button").on("click", function (event){
 
 });
 
-// });
+});
