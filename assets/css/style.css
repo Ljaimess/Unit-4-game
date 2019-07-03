@@ -1,0 +1,35 @@
+.column1{float: left;
+        margin-left: 4%;
+        margin-right: 5%;
+        padding: 1%;
+        border: solid grey 2px;
+              
+
+}
+
+.column2{float: left;
+        
+        margin-right: 5%;
+        padding: 1%;
+        border: solid grey 2px;
+    
+
+}
+
+.potato{background-color: rgb(231, 175, 228);
+        float: left;
+        
+        margin-right: 5%;
+        padding: 1%;
+        border: solid grey 2px;
+    
+}
+
+.footsies{background-color: rgb(25, 167, 192);
+    text-align: center;
+    margin-top: 4%;
+    border: solid grey 2px;
+    font-size: 100%
+
+
+}
