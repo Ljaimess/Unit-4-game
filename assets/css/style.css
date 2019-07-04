@@ -1,13 +1,18 @@
-.column1{float: left;
+body {background-image: url("assets/images/papyrus.png");
+
+}
+
+
+/* .column1{float: left;
         margin-left: 4%;
         margin-right: 5%;
         padding: 1%;
         border: solid grey 2px;
               
 
-}
+} */
 
-.column2{float: left;
+.col-sm{float: left;
         
         margin-right: 5%;
         padding: 1%;
@@ -33,3 +38,6 @@
 
 
 }
+/* .garnet{margin-left: 20%;
+
+} */
